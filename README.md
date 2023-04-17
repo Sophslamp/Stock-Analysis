@@ -1,13 +1,13 @@
 # Stock-Analysis
 This project is a Python program that analyzes historical stock data and predicts future prices using machine learning techniques like regression and time-series forecasting. The program performs the following steps:
 
-Collects historical stock data from a reliable source
-Cleans and prepares the data for analysis
-Creates new features from the existing data that may help improve the accuracy of the model
-Selects a machine learning model that best fits the data and business problem
-Trains the model on the historical data
-Evaluates the performance of the model on testing data
-Uses the trained model to predict future stock prices
+-Collects historical stock data from a reliable source
+-Cleans and prepares the data for analysis
+-Creates new features from the existing data that may help improve the accuracy of the model
+-Selects a machine learning model that best fits the data and business problem
+-Trains the model on the historical data
+-Evaluates the performance of the model on testing data
+-Uses the trained model to predict future stock prices
 
 Getting Started
 Prerequisites
